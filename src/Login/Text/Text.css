@@ -1,0 +1,14 @@
+.text{
+    height:min-content;
+    width: max-content;
+    max-width: 300px;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 12px;
+    color: black;
+    text-align: left;
+}
+
+.white{
+    background-color: white;
+}
