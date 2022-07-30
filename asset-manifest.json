@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-Wysa/static/css/main.004afd61.css",
+    "main.js": "/my-Wysa/static/js/main.d79358a0.js",
+    "index.html": "/my-Wysa/index.html",
+    "main.004afd61.css.map": "/my-Wysa/static/css/main.004afd61.css.map",
+    "main.d79358a0.js.map": "/my-Wysa/static/js/main.d79358a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.004afd61.css",
+    "static/js/main.d79358a0.js"
+  ]
+}
